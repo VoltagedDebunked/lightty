@@ -15,6 +15,8 @@ The `execute` argument tells what to execute on start, like `/usr/bin/fish` or `
 The `colors` argument tells the terminal what colors to use.
 the `fontFamily` argument tells the terminal what font to use.
 
+**It is located in `~/.config/lightty/lightty.conf`.**
+
 # Install
 
 Run:
